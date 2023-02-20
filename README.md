@@ -8,4 +8,4 @@ This repository includes notes for the Spring Semester 2022-2023 Design Patterns
 
 ### Q: How Can I Reach Week-by-Week Lecture Notes?
 
-**A**: To view all branches, run `git branch` and `git checkout weeks/week-X` after cloning this repository.
+**A**: All weeks have been merged to the main branch. However, if you want to see each week's branch separately, run ```git branch``` and ```git checkout weeks/week-X``` after cloning this repository.
