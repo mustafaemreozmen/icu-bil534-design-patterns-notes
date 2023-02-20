@@ -1,4 +1,4 @@
-# Week 1 - Lecture Informations, Reminder for OOP
+# Week 1 - Lecture Information, Reminder for OOP
 
 ## Principles of OOPs
 
@@ -14,9 +14,9 @@
 
 For example, if you're creating a RaceBicycle, you don't need to know the boilerplate code for the `go()` and `stop()` methods from the base Bicycle class. This is because you will override these methods in the child object to achieve more accuracy or a shorter braking distance.
 
-**Encapsulation**: Encapsulation helps with data security via getter/setters and access modifiers. Fields are set to private and each field has a getter and setter method for changing or reading them. With encapsulation, we will protect our fields unexpected changes or reads.
+**Encapsulation**: Encapsulation helps with data security via getter/setters and access modifiers. Fields are set to private and each field has a getter and setter method for changing or reading them. With encapsulation, we will protect our fields from unexpected changes or reads.
 
-**Polymorphism**: Polymorphism refers to the ability to perform a certain action in different ways. Polymorphism can take multiple forms: method overloading, method overriding and assign child to parent class reference.
+**Polymorphism**: Polymorphism refers to the ability to perform a certain action in different ways. Polymorphism can take multiple forms: method overloading, method overriding, and assigning child instances to parent reference.
 
 **Inheritance**: Inheritance makes it possible to create a child class that inherits the fields and methods of the parent class. The child class can override the values and methods of the parent class, but it must not. It can also add new data and functionality to its parent.
 
@@ -36,7 +36,7 @@ Design pattern concepts were created after a long time spent on implementation a
 
 ---
 
-## Other Consepts about OOP
+## Other Concepts about OOP
 
 - High Cohesion
 - Loose Compling
@@ -50,7 +50,7 @@ Design pattern concepts were created after a long time spent on implementation a
 
 **Implementation Inheritance**: Implementation inheritance is a relationship where a child class inherits behaviour implementation from a base class tightly.
 
-**Interface Inheritance**: Interface inheritance is a child class only inherits the description of behaviour from the base class and provides the implementation itself.
+**Interface Inheritance**: Interface inheritance is a child class that only inherits the description of behaviour from the base class and provides the implementation itself.
 
 **Open-Closed Principle**: Open-Closed Principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
 
