@@ -1,4 +1,4 @@
-# Istanbul Commercial University - Computer Science Master Program - Design Patterns Lecture Notes
+# Istanbul Ticaret University - Computer Science Master Program - Design Patterns Lecture Notes
 
 This repository includes notes for the Spring Semester 2022-2023 Design Patterns lecture (BIL534).
 
